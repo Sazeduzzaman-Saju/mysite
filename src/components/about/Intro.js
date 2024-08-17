@@ -20,8 +20,8 @@ const Intro = () => {
         </p>
         <p className="text-justify">
           Hello! I'm a passionate frontend developer specializing in the MEARN
-          (MongoDB, Express.js, React/Next.js, Node.js) stack. With a deep
-          love for crafting user-friendly interfaces, I bring creativity and
+          (MongoDB, Express.js, React/Next.js, Node.js) stack. With a deep love
+          for crafting user-friendly interfaces, I bring creativity and
           precision to every project I undertake. My expertise lies in
           transforming concepts into visually stunning and highly functional web
           applications that not only meet but exceed client expectations. I have
@@ -139,7 +139,10 @@ const Intro = () => {
         </div>
       </div>
       <div className="tokyo_tm_button" data-position="left">
-        <a href="assets/img/cv/1.jpg" download>
+        <a
+          href="https://drive.google.com/uc?export=download&id=FILE_ID"
+          download
+        >
           <span>Download CV</span>
         </a>
       </div>
