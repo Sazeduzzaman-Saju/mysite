@@ -20,7 +20,7 @@ const Index = () => {
       {/* SERVICE */}
       <Service />
       {/* /SERVICE */}
-      <div className="tokyo_tm_portfolio_titles" />
+      <div className="saju_tm_portfolio_titles" />
       {/* PORTFOLIO */}
       <Portfolio />
       {/* /PORTFOLIO */}

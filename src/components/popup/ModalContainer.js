@@ -8,7 +8,7 @@ const ModalContainer = ({ children, nullValue }) => {
     nullValue(null);
   });
   return (
-    <div className="tokyo_tm_modalbox opened">
+    <div className="saju_tm_modalbox opened">
       <div className="box_inner" ref={domNode}>
         <div className="close">
           <a

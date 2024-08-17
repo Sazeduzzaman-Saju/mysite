@@ -91,7 +91,7 @@ const ContactForm = () => {
             placeholder="Message"
           />
         </div>
-        <div className="tokyo_tm_button" data-position="left">
+        <div className="saju_tm_button" data-position="left">
           <button type="submit">Send Message</button>
         </div>
         {/* If you want to change mail address to yours, please open modal.php and go to line 4 */}

@@ -50,9 +50,9 @@ const Intro = () => {
           turn your ideas into reality.
         </p>
       </div>
-      <div className="tokyo_tm_short_info w-full h-auto clear-both float-left flex border-solid border-[#DFDFDF] border-b pb-[30px] mb-[40px]">
+      <div className="saju_tm_short_info w-full h-auto clear-both float-left flex border-solid border-[#DFDFDF] border-b pb-[30px] mb-[40px]">
         <div className="left w-1/2 pr-[50px]">
-          <div className="tokyo_tm_info w-full h-auto clear-both float-left">
+          <div className="saju_tm_info w-full h-auto clear-both float-left">
             <ul className="m-0 list-none">
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
@@ -102,7 +102,7 @@ const Intro = () => {
           </div>
         </div>
         <div className="right w-1/2 pl-[50px]">
-          <div className="tokyo_tm_info">
+          <div className="saju_tm_info">
             <ul className="m-0 list-none">
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
@@ -138,7 +138,7 @@ const Intro = () => {
           </div>
         </div>
       </div>
-      <div className="tokyo_tm_button" data-position="left">
+      <div className="saju_tm_button" data-position="left">
         <a
           href="https://drive.google.com/uc?export=download&id=FILE_ID"
           download

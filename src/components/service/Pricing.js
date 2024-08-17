@@ -1,8 +1,8 @@
 const Pricing = () => {
   return (
-    <div className="tokyo_tm_pricing w-full h-auto clear-both float-left px-[0px] pt-[100px] pb-[60px] bg-white">
+    <div className="saju_tm_pricing w-full h-auto clear-both float-left px-[0px] pt-[100px] pb-[60px] bg-white">
       <div className="container">
-        <div className="tokyo_section_title w-full h-auto clear-both float-left mb-[40px]">
+        <div className="saju_section_title w-full h-auto clear-both float-left mb-[40px]">
           <h3 className="text-[20px] font-bold">Pricing</h3>
         </div>
         <div className="list w-full h-auto clear-both float-left">
@@ -35,7 +35,7 @@ const Pricing = () => {
                     <p>Free Support</p>
                   </li>
                 </ul>
-                <div className="tokyo_tm_button" data-position="left">
+                <div className="saju_tm_button" data-position="left">
                   <a href="#">
                     <span>Purchase</span>
                   </a>
@@ -70,7 +70,7 @@ const Pricing = () => {
                     <p>Free Support</p>
                   </li>
                 </ul>
-                <div className="tokyo_tm_button" data-position="left">
+                <div className="saju_tm_button" data-position="left">
                   <a href="#">
                     <span>Purchase</span>
                   </a>
@@ -108,7 +108,7 @@ const Pricing = () => {
                     <p>Free Support</p>
                   </li>
                 </ul>
-                <div className="tokyo_tm_button" data-position="left">
+                <div className="saju_tm_button" data-position="left">
                   <a href="#">
                     <span>Purchase</span>
                   </a>

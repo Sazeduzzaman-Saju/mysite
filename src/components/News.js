@@ -39,8 +39,8 @@ const News = () => {
   return (
     <SectionContainer name={"news"}>
       <div className="container">
-        <div className="tokyo_tm_news w-full clear-both float-left h-auto pt-[100px] px-0 pb-[45px]">
-          <div className="tokyo_tm_title w-full h-auto clear-both float-left mb-[62px]">
+        <div className="saju_tm_news w-full clear-both float-left h-auto pt-[100px] px-0 pb-[45px]">
+          <div className="saju_tm_title w-full h-auto clear-both float-left mb-[62px]">
             <div className="title_flex w-full h-auto clear-both flex justify-between items-end">
               <SectionTitle pageName={"News"} title={"Latest News"} />
             </div>
@@ -64,7 +64,7 @@ const News = () => {
                       style={{ backgroundImage: `url(${item.image})` }}
                     />
                     <a
-                      className="tokyo_tm_full_link"
+                      className="saju_tm_full_link"
                       href="#"
                       onClick={() => {
                         modalToggle(true);
@@ -103,7 +103,7 @@ const News = () => {
                         {item.title}
                       </a>
                     </h3>
-                    <div className="tokyo_tm_read_more">
+                    <div className="saju_tm_read_more">
                       <a
                         href="#"
                         onClick={() => {

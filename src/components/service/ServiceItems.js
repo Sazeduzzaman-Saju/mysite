@@ -78,7 +78,7 @@ const ServiceItems = () => {
                 {service.name}
               </h3>
               <p className="text">{service.text[0].slice(0, 70)}...</p>
-              <div className="tokyo_tm_read_more">
+              <div className="saju_tm_read_more">
                 <a
                   href="#"
                   onClick={() => {
@@ -90,7 +90,7 @@ const ServiceItems = () => {
                 </a>
               </div>
               <a
-                className="tokyo_tm_full_link"
+                className="saju_tm_full_link"
                 href="#"
                 onClick={() => {
                   modalToggle(true);

@@ -6,7 +6,7 @@ const SectionContainer = ({ name, children }) => {
   return (
     <div
       id={name}
-      className={`tokyo_tm_section ${
+      className={`saju_tm_section ${
         name == nav ? `animated active ${animation}` : ""
       }`}
     >

@@ -16,7 +16,7 @@ const NewsModal = () => {
           data-img-url={newsModal.image}
           style={{ backgroundImage: `url(${newsModal.image})` }}
         />
-        <a className="tokyo_tm_full_link" href="#" />
+        <a className="saju_tm_full_link" href="#" />
       </div>
       <div className="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
         <div className="extra flex items-center justify-between mb-[25px] relative">

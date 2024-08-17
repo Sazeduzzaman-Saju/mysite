@@ -109,8 +109,8 @@ const Portfolio = () => {
   return (
     <SectionContainer name={"portfolio"}>
       <div className="container">
-        <div className="tokyo_tm_portfolio w-full h-auto clear-both float-left px-0 pt-[100px] pb-[40px]">
-          <div className="tokyo_tm_title w-full h-auto clear-both float-left mb-[62px]">
+        <div className="saju_tm_portfolio w-full h-auto clear-both float-left px-0 pt-[100px] pb-[40px]">
+          <div className="saju_tm_title w-full h-auto clear-both float-left mb-[62px]">
             <div className="title_flex w-full h-auto clear-both flex justify-between items-end">
               <SectionTitle
                 pageName={"Portfolio"}
@@ -181,7 +181,7 @@ const Portfolio = () => {
               <li className="vimeo mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Teresa Butler"
                     data-category="Vimeo"
                   >
@@ -205,7 +205,7 @@ const Portfolio = () => {
               <li className="youtube mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Ashley Flores"
                     data-category="Youtube"
                   >
@@ -229,7 +229,7 @@ const Portfolio = () => {
               <li className="soundcloud mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Derek Smith"
                     data-category="Soundcloud"
                   >
@@ -253,7 +253,7 @@ const Portfolio = () => {
               <li className="image mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Gloria Jenkins"
                     data-category="Image"
                   >
@@ -274,7 +274,7 @@ const Portfolio = () => {
               <li className="detail mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Selena Gomez"
                     data-category="Detail"
                   >
@@ -302,7 +302,7 @@ const Portfolio = () => {
               <li className="detail mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    className="entry saju_tm_portfolio_animation_wrap"
                     data-title="Ave Simone"
                     data-category="Detail"
                   >

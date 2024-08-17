@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
       {modal && newsModal && <NewsModal />}
       {modal && portfolioDetailsModal && <DetailsModal />}
       {/* WRAPPER ALL */}
-      <div className="tokyo_tm_all_wrap">
+      <div className="saju_tm_all_wrap">
         {/* PRELOADER */}
         {/* <div id="preloader">
           <div className="loader_line" />
